@@ -1,0 +1,6 @@
+POST /PANTILTCONTROL.CGI HTTP/1.0
+Content-length: 68
+User-Agent: user
+Authorization: Basic 
+
+PanSingleMoveDegree=1&TiltSingleMoveDegree=1&PanTiltSingleMove=3
